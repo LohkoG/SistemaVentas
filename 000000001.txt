@@ -1,0 +1,100 @@
+-------------------------------
+      COMPROBANTE DE PAGO      
+DIRECCION:Km29 Panamericana sur
+CLI:Clientes Vario Dni:0000    
+NRO:000000001 Fecha: 2021-08-26
+-------------------------------
+ ID PRODUCTO    PRE CANT  TOTAL
+-------------------------------
+ 1  Sal 1k.     12.0   1 12.0  
+                               
+ 2  Azucar 1k.  18.0   1 18.0  
+                               
+ 3  huevo       3.0    1 30.0  
+                       0       
+ 4  Coca Cola 2 32.0   1 32.0  
+    ltr.                       
+-------------------------------
+    vo FUD 450g                
+ SubTotal  :S/.135.59          
+ IGV       :S/.24.41           
+ Total     :S/.160.0           
+-------------------------------
+ Vendededor:jose               
+Esta ticket no tiene valor fisc
+al solo uso interno            
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               

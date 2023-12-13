@@ -1,0 +1,100 @@
+-------------------------------
+      COMPROBANTE DE PAGO      
+DIRECCION:Tlapa de Comonfort, G
+CLI:Clientes Vario Dni:0000    
+NRO:000000003 Fecha: 2021-08-27
+-------------------------------
+ ID PRODUCTO    PRE CANT  TOTAL
+-------------------------------
+ 1  Boing 500ml 15.0   1 15.0  
+    .                          
+                               
+                               
+-------------------------------
+                               
+ SubTotal  :S/.12.71           
+ IGV       :S/.2.29            
+ Total     :S/.15.0            
+-------------------------------
+ Vendededor:Jose               
+Esta ticket no tiene valor fisc
+al solo uso interno            
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               

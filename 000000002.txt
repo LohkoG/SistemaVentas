@@ -1,0 +1,100 @@
+-------------------------------
+      COMPROBANTE DE PAGO      
+DIRECCION:Km29 Panamericana sur
+CLI:Clientes Vario Dni:0000    
+NRO:000000002 Fecha: 2021-08-27
+-------------------------------
+ ID PRODUCTO    PRE CANT  TOTAL
+-------------------------------
+ 1  Cuernitos T 28.0   1 28.0  
+    ia Rosa 200                
+ 2  Boing 500ml 15.0   1 15.0  
+    .                          
+                               
+-------------------------------
+                               
+ SubTotal  :S/.36.44           
+ IGV       :S/.6.56            
+ Total     :S/.43.0            
+-------------------------------
+ Vendededor:Jose               
+Esta ticket no tiene valor fisc
+al solo uso interno            
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
+                               
